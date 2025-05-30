@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Adya!
 
-![adya_git](adya_Git.gif)
+![adya_git](adya.git)
 
 🎓 I'm a student of Information Systems at Universitas Jember, passionate about technology, and web development
 
