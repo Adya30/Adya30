@@ -6,11 +6,11 @@
 ---
 
 ### 👨‍💻 About Me
-🎓 Information Systems student at University of Jember
-💻 Interested in Frontend Development, UI/UX Design, and Database Management
-🌱 Currently learning React, TailwindCSS, and PostgreSQL
-🚀 Active in various campus organizations & tech communities
-⚡ Fun fact: Enjoy exploring design and creating small open-source projects
+-🎓 Information Systems student at University of Jember
+-💻 Interested in Frontend Development, UI/UX Design, and Database Management
+-🌱 Currently learning TailwindCSS, and PostgreSQL
+-🚀 Active in various campus organizations & tech communities
+-⚡ Fun fact: Enjoy exploring design and creating small open-source projects
 ---
 
 ### 🛠️ Languages and Tools
