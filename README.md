@@ -16,8 +16,6 @@
 
 ### 🛠️ Languages and Tools
 
-### 🛠️ Languages and Tools
-
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40"/>](https://www.w3.org/html/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40"/>](https://www.w3schools.com/css/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
