@@ -6,12 +6,11 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 Mahasiswa **Sistem Informasi** di **Universitas Jember**  
-- 💻 Tertarik pada **Frontend Development, UI/UX Design, dan Database Management**  
-- 🌱 Sedang mendalami **React, TailwindCSS, dan PostgreSQL**  
-- 🚀 Aktif di berbagai organisasi kampus & komunitas teknologi  
-- ⚡ Fun fact: Suka ngulik desain dan bikin proyek open source kecil-kecilan  
-
+🎓 Information Systems student at University of Jember
+💻 Interested in Frontend Development, UI/UX Design, and Database Management
+🌱 Currently learning React, TailwindCSS, and PostgreSQL
+🚀 Active in various campus organizations & tech communities
+⚡ Fun fact: Enjoy exploring design and creating small open-source projects
 ---
 
 ### 🛠️ Languages and Tools
