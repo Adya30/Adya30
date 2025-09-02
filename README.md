@@ -33,6 +33,7 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Adya30&show_icons=true&locale=en" alt="adya30" />
 </p>
+
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Adya30" alt="GitHub Streak" />
 </p>
