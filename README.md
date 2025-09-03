@@ -32,6 +32,4 @@ My Website : https://www.adyahan.my.id/
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Adya30" alt="GitHub Streak" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Adya30)](https://git.io/streak-stats)
