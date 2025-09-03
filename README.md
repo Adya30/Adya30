@@ -16,6 +16,7 @@
 
 ⚡ Fun fact: Enjoy exploring design and creating small open-source projects
 ---
+My Website : https://www.adyahan.my.id/
 
 ### 🛠️ Languages and Tools
 
@@ -30,9 +31,6 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adya30&show_icons=true&locale=en" alt="adya30" />
-</p>
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Adya30" alt="GitHub Streak" />
