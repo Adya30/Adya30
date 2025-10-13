@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adya</h1>
 <h3 align="center">Welcome to My Github Profile</h3>
 
-![Adya](adyahand.png)
+![Adya](icon.png)
 
 ---
 
@@ -16,7 +16,7 @@
 
 ⚡ Fun fact: Enjoy exploring design and creating small open-source projects
 ---
-My Website : https://www.adyahan.my.id/
+My Portfolio : https://www.adyahan.my.id/
 
 ### 🛠️ Languages and Tools
 
