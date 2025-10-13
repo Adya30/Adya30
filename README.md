@@ -4,9 +4,10 @@
 ![Banner Github Profile](banner.png)
 
 ### 👨‍💻 About Me
-🎓 Information Systems student at University of Jember
 💻 Interested in Frontend Development, UI/UX Design, and Database Management
+
 🌱 Currently learning React, TailwindCSS, and PostgreSQL
+
 🚀 Active in various campus organizations & tech communities
 
 ### 🛠️ Skills
