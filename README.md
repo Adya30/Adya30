@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adya</h1>
-<h3 align="center">A passionate Frontend Developer from Universitas Jember</h3>
+<h3 align="center">Welcome to My Github Profile</h3>
 
 ![Adya](adyahand.png)
 
