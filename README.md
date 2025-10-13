@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adya</h1>
 <h3 align="center">Welcome to My Github Profile</h3>
 
-![Adya](icon.png)
+![Banner Github Profile](banner.png)
 
 ---
 
@@ -32,4 +32,4 @@ My Portfolio : https://www.adyahan.my.id/
 
 ### 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Adya30)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Adya30&theme=dark&hide_border=true)](https://git.io/streak-stats)
