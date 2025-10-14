@@ -19,9 +19,7 @@
 ![Adya Stats](https://github-readme-stats.vercel.app/api?username=Adya30&theme=dark&hide_border=false&include_all_commits=false&count_private=false)    ![Adya Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Adya30&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Adya30&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-My Portfolio : https://www.adyahan.my.id/
+![Adya Trophies](https://github-profile-trophy.vercel.app/?username=Adya30&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <!-- <img src="https://raw.githubusercontent.com/Adya30/Adya30/output/snake.svg" alt="Snake animation" /> -->
 
