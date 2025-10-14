@@ -8,7 +8,7 @@
 
 🌱 Currently learning React, TailwindCSS, and PostgreSQL
 
-🚀 Active in various campus organizations & tech communities
+🚀 Active in various organizations & tech communities programming language
 
 ## 🛠️ Skills
 
