@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Adya</h1>
 <h3 align="left">Welcome to My Github Profile</h3>
 
-![Banner Github Profile](banner.png)
+![Banner](banner.png)
 
 ## 👨‍💻 About Me
 💻 Interested in Frontend Development, UI/UX Design, and Database Management
