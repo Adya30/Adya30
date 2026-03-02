@@ -16,4 +16,11 @@
 
 ## 📊 GitHub Stats
 
-![Adya Stats](https://github-readme-stats.vercel.app/api?username=Adya30&theme=dark&hide_border=false&include_all_commits=false&count_private=false)    
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adya30&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adya30&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Adya30&theme=tokyonight&hide_border=true"/>
+</p>
