@@ -6,8 +6,6 @@
 ## 👨‍💻 About Me
 💻 Interested in Frontend Development, UI/UX Design, and Database Management
 
-🌱 Currently learning React, TailwindCSS, and PostgreSQL
-
 🚀 Active in various organizations & tech communities programming language
 
 ## 🛠️ Skills
