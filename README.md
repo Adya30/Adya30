@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Adya</h1>
+<h1 align="left">Hi, I'm Adya</h1>
 <h3 align="left">Welcome to My Github Profile</h3>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Adya30&color=blueviolet&style=for-the-badge)
