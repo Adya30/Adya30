@@ -3,11 +3,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Adya30&color=blueviolet&style=for-the-badge)
 
-## 👨‍💻 About Me
-💻 Interested in Frontend Development, UI/UX Design, and Database Management
-
-🚀 Active in various organizations & tech communities programming language
-
 ## 🛠️ Skills
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
