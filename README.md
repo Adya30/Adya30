@@ -24,9 +24,9 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats & Grade
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Adya30&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Adya30&show_icons=true&theme=tokyonight&hide_border=true" alt="Adya's GitHub Stats" />
 </p>
 
 ### 🌐 Most Used Languages
