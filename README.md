@@ -25,11 +25,11 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ### 📊 GitHub Stats & Grade
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Adya30&show_icons=true&theme=tokyonight&hide_border=true" alt="Adya's GitHub Stats" />
 </p>
 
 ### 🌐 Most Used Languages
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Adya30&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
