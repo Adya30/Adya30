@@ -26,7 +26,7 @@
 
 ### 📊 GitHub Stats & Grade
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adya30&show_icons=true&theme=tokyonight&hide_border=true" alt="Adya's GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Adya30&show_icons=true&theme=tokyonight&hide_border=true" alt="Adya's GitHub Stats" />
 </p>
 
 ### 🌐 Most Used Languages
