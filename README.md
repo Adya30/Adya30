@@ -18,10 +18,10 @@
 
 ### 📊 GitHub Stats & Grade
 <p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Adya30&show_icons=true&theme=tokyonight&hide_border=true" alt="Adya's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Adya30&show_icons=true&theme=tokyonight&hide_border=true" alt="Adya's GitHub Stats" />
 </p>
 
 ### 🌐 Most Used Languages
 <p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Adya30&langs_count=15&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adya30&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 </p>
